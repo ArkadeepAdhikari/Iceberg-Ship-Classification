@@ -1,5 +1,5 @@
 '''
-author: Arkadeep
+author: Arkadeep Adhikari
 '''
 
 import numpy as np # linear algebra
